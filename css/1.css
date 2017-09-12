@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.navbar-header h2{
+	font-weight: bold;
+	
+}
+
+.site-header{
+	height: 770px;
+	background-image:url(images/8.png);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+
+.nav-tabs {
+     border-bottom: none;
+}
+
+.nav li a{
+	color: white;
+	font-size: 18px;
+}
+.nav li a:hover{
+	background-color: black;
+}
+
+
+.header-content p{
+	font-size: 35px;
+	padding-top: 300px;
+	color: antiquewhite;
+}
+.btn{
+	box-shadow: 2px 2px 1px 1px black;
+}
+.site-main h3{
+	color: royalblue;
+	font-size: 30px;
+}
+.site-main p{
+	font-size: 20px;
+}
+
+h2{
+	color: royalblue;
+}
+
+.well{
+	overflow: hidden;
+}
+.site-main img{
+	height: 330px;
+	width: auto;
+	
+	
+}
+
+.site-section{
+	
+	height: auto;
+	background-image: url(images/7.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+.site-section .row{
+	padding-top: 25px;
+}
+.container h2{
+	color: white;
+}
+.site-section p{
+	color: white;
+	font-size: 20px;
+}
+.panel{
+	margin-top: 20px;
+	box-shadow: 2px 2px 1px 1px black;
+	
+}
+.panel-heading h3{
+	color:steelblue;
+	
+}
+.icon{
+	font-size: 100px;
+}
+.panel-body p{
+	color: darkgrey;
+}
+.site-form{
+	height: auto;
+	background-image: url(images/1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.site-form .well{
+	margin-top: 30px;
+	background-color: rgba(0,0,0,0.28);
+}
+.site-form h3{
+	color: white;
+	font-size: 30px;
+}
+label{
+	color:white;
+	font-size: 18px;
+}
+.site-footer{
+	background-color: grey;
+	height: auto;
+}
+.site-footer h3{
+	font-weight: bold;
+	color: white;
+}
+.site-footer p{
+	color: white;
+}
+
+.icon-bar{
+	font-size: 40px;
+	color: black;
+}
+.buttom{
+	background-color: black;
+}
+.buttom .row p{
+	color: white;
+	font-size:20px;
+	padding-top: 10px;
+	
+}
+
+
+
+
+
+
+
+
+
